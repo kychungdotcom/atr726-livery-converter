@@ -1,0 +1,18 @@
+{
+  "name": "atr726-livery-converter",
+  "version": "1.0.0",
+  "author": "kychungdotcom",
+  "description": "Convert the liveries for legacy Virtualcol converted mod to be compatible with the new version",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^12.0.2"
+  },
+  "directories": {
+    "buildResources": "assets",
+    "app": "package"
+  }
+}
